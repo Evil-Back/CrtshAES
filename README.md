@@ -10,7 +10,6 @@ Search subdomains of facebook.com # python crtsh.py  -u facebook.com
 # python crtsh.py  -u facebook.com | sort | uniq | httprobe
 ![image](https://user-images.githubusercontent.com/66049511/119264261-ea655300-bbd1-11eb-8d82-ef8779636361.png)
 
-# [face](http://facebook.com)
 
 # Usage
 Usage: crtsh.py [-u|--url] target [-i|--input-file] input_file [-o|--output-file] dest_file [-s|--silent]
